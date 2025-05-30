@@ -272,3 +272,4 @@ For support, feature requests, or bug reports:
 ---
 
 **Remember: CryptoBuddy Pro is a tool for education and research. Always consult with financial professionals before making investment decisions!** 🚀💎
+
